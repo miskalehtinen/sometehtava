@@ -4,3 +4,9 @@ https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.co
 2. Paina rekisteröidy oikeassa yläreunassa
 Syötä tietosi
 Valmis
+
+# Twitter Uloskirjautumis ohjeet 8-)
+1. Mene osoitteeseen twitter.com
+2. Paina omaa kuvaa vasemmassa ala nurkassa
+Paina kirjaa ulos
+Olet nyt kirjautunut ulos
